@@ -1,2 +1,2 @@
 # hello-world
-First try
+First tutorial for git hub. Looking forward to it.
